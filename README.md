@@ -1,255 +1,163 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AAKASH%20SK&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%2F%20AI%20%2F%20SYSTEMS&descAlignY=59&descSize=16&animation=fadeIn&color=0:07111F,30:123B68,65:4F46E5,100:06B6D4" alt="Aakash SK — Cybersecurity, AI and Systems"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&text=AAKASH%20SK&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=59&descSize=16&animation=fadeIn&color=0:071923,30:075985,65:0F766E,100:F59E0B" alt="Aakash SK — Cybersecurity, AI and Systems"/>
 
-<a href="https://www.linkedin.com/in/aakash-sk-0a5608328">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:skaakash.cv@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Aakash-SK-16?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=17&duration=2400&pause=750&color=67E8F9&center=true&vCenter=true&width=800&lines=Curious+mind.+Security-first+engineering.;Python+in+one+tab%2C+logs+in+another.;Building+AI+systems+that+do+more+than+look+cool.;Debugging+is+just+detective+work+with+more+tabs." alt="Animated tagline"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aakash-sk-0a5608328"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:skaakash.cv@gmail.com"><img src="https://img.shields.io/badge/SEND%20A%20SIGNAL-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Aakash-SK-16?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20THE%20LAB-Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=760&lines=Security-minded+engineer+in+the+making;Building+with+Python%2C+AI+and+cloud;From+research+questions+to+working+prototypes;Curious+about+systems.+Serious+about+the+details." alt="Animated profile tagline"/>
-
-**Computer Science · Cybersecurity · Applied AI**
-
-Chennai, India &nbsp;·&nbsp; Sri Venkateswaraa College of Technology &nbsp;·&nbsp; CGPA 8.25/10
+<sup>Computer Science · Cybersecurity · Applied AI · Chennai, India</sup>
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,35:2563EB,70:7C3AED,100:06B6D4" width="100%" alt="Gradient divider"/>
-</div>
+---
 
-## A quick introduction
+## `whoami`
 
-I like understanding how systems behave—not just when everything works, but when inputs are noisy, infrastructure is limited, or someone is trying to exploit a weakness.
+Hey! I'm Aakash — a Computer Science undergraduate specialising in Cybersecurity at Sri Venkateswaraa College of Technology (**CGPA: 8.25/10**).
 
-My interests span **cybersecurity, machine learning, agentic AI, cloud infrastructure, and full-stack engineering**. I learn by building: reading, prototyping, testing assumptions, debugging, and improving the result.
+I like figuring out what happens behind the interface: why a system fails, what a suspicious packet is trying to say, whether a model can run on a tiny device, and why that one dependency worked yesterday. (The last one is a mystery science has yet to solve.)
 
-<table>
-<tr>
-<td width="33%" align="center">
+My approach is simple: **understand the problem, build something testable, measure what happened, then improve it.**
 
-**01 · SECURE**
-
-<br/>Network defence<br/>Threat detection<br/>Security automation
-
-</td>
-<td width="34%" align="center">
-
-**02 · INTELLIGENT**
-
-<br/>Applied ML<br/>Agentic AI<br/>Edge inference
-
-</td>
-<td width="33%" align="center">
-
-**03 · ENGINEER**
-
-<br/>APIs and apps<br/>Cloud foundations<br/>Systems prototypes
-
-</td>
-</tr>
-</table>
+- **Current quests:** agentic AI, LangGraph, AWS cloud foundations, security automation
+- **Research rabbit holes:** resilient satellite positioning, sensor fusion, efficient edge AI
+- **Favourite loop:** `Read → Build → Break (ethically) → Measure → Improve`
+- **Engineering rule:** a good-looking demo is nice; a reproducible result is nicer
 
 <details>
-<summary><b>Current learning and research focus</b></summary>
+<summary><b>🔎 More about my current learning queue</b></summary>
 
-- Agentic AI and tool-using workflows with LangGraph
-- AWS cloud architecture and secure deployment
-- Network traffic analysis and DDoS detection
-- Resilient positioning using LEO satellite signals and sensor fusion
-- Efficient machine learning for edge devices
+- Exploring tool-using AI workflows and how to validate their actions
+- Learning AWS architecture and secure cloud deployment fundamentals
+- Studying network traffic patterns and DDoS detection approaches
+- Investigating LEO signals, Doppler observations, orbit propagation and state estimation
+- Learning how model size, latency and hardware constraints affect edge inference
 
 </details>
 
 ---
 
-## The technology map
+## The stack: choose your fighter
 
-*Select a category to explore the tools. Badges represent technologies I have used, explored, or am learning—not equal proficiency in every tool.*
+*Official project logos, recognisable colours, and clickable badges. Some are tools I've used, some I've explored, and some are currently on my learning list—no fake “expert in everything” badge here.*
 
-<details>
-<summary><b>01 / Programming & developer workflow</b></summary>
-<br/>
+### `01` — Languages & everyday tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew"/>
-</p>
-</details>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+<a href="https://brew.sh/"><img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew"/></a>
 
-<details>
-<summary><b>02 / Cybersecurity & systems</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-  <img src="https://img.shields.io/badge/Threat_Detection-C21325?style=flat-square" alt="Threat Detection"/>
-  <img src="https://img.shields.io/badge/Incident_Response-B45309?style=flat-square" alt="Incident Response"/>
-  <img src="https://img.shields.io/badge/DDoS_Mitigation-991B1B?style=flat-square" alt="DDoS Mitigation"/>
-</p>
-</details>
+### `02` — Cybersecurity & systems
 
-<details>
-<summary><b>03 / Web, APIs & data stores</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/REST_APIs-475569?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-</details>
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
+<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/></a>
+<img src="https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security"/>
+<img src="https://img.shields.io/badge/Threat_Detection-B91C1C?style=for-the-badge&logo=shield&logoColor=white" alt="Threat Detection"/>
+<img src="https://img.shields.io/badge/Incident_Response-B45309?style=for-the-badge" alt="Incident Response"/>
+<img src="https://img.shields.io/badge/DDoS_Mitigation-7F1D1D?style=for-the-badge" alt="DDoS Mitigation"/>
 
-<details>
-<summary><b>04 / AI, machine learning & data engineering</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
-  <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge" alt="LangGraph"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Dask-FDA061?style=flat-square" alt="Dask"/>
-  <img src="https://img.shields.io/badge/Flower_Federated_Learning-7C3AED?style=flat-square" alt="Flower"/>
-</p>
+### `03` — Web, APIs & databases
 
-**Concepts explored:** CNNs · LSTMs · Transformers · anomaly detection · model conversion · feature engineering · edge inference
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+<a href="https://mui.com/"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
 
-</details>
+### `04` — AI, ML & data engineering
 
-<details>
-<summary><b>05 / Cloud, DevOps, hardware & emerging platforms</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/AWS-Currently_Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS — learning"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
-  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri"/>
-  <img src="https://img.shields.io/badge/RTL--SDR-334155?style=flat-square" alt="RTL-SDR"/>
-</p>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+<a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a>
+<a href="https://onnx.ai/"><img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/></a>
+<a href="https://www.dask.org/"><img src="https://img.shields.io/badge/Dask-FDA061?style=for-the-badge" alt="Dask"/></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/></a>
+<a href="https://www.tensorflow.org/lite"><img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/></a>
 
-Also explored: BigQuery · Cloud Storage · Docker Compose · SGP4/orbit propagation · Astropy
+### `05` — Cloud, DevOps, hardware & platforms
 
-</details>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-LEARNING-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS — learning"/></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+<a href="https://developer.hashicorp.com/terraform"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/></a>
+<a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/></a>
+<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
+<a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/></a>
+<a href="https://www.hyperledger.org/"><img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge" alt="Hyperledger"/></a>
+<a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/></a>
+<img src="https://img.shields.io/badge/RTL--SDR-334155?style=for-the-badge" alt="RTL-SDR"/>
+
+<sub>Also explored: BigQuery · Cloud Storage · Docker Compose · Astropy · SGP4 · Flower federated learning</sub>
 
 ---
 
-## Selected work
+## Projects, aka things that escaped the notes app
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🛰️ Cognitive LEO-PNT Receiver
 
-### 01 — Cognitive LEO-PNT
+<img src="https://img.shields.io/badge/DOMAIN-Satellite%20Navigation-075985?style=flat-square" alt="Satellite navigation"/> <img src="https://img.shields.io/badge/STATUS-Research%20Prototype-0F766E?style=flat-square" alt="Research prototype"/>
 
-<img src="https://img.shields.io/badge/RESEARCH%20PROTOTYPE-Satellite%20Navigation-2563EB?style=flat-square" alt="Research prototype"/>
+Exploring how Low Earth Orbit signals of opportunity could complement GNSS when satellite navigation is degraded.
 
-Exploring the use of Low Earth Orbit signals of opportunity to complement GNSS in degraded environments.
-
-**Work areas**
-- Doppler and pseudorange simulation
-- Orbit propagation and feature engineering
+- Simulated observables: Doppler and pseudorange
+- Orbit-aware feature engineering and SGP4 concepts
 - Extended Kalman Filter state estimation
-- Raspberry Pi and RTL-SDR prototype
+- Raspberry Pi + RTL-SDR prototype direction
 
-`Python` `TensorFlow Lite` `RTL-SDR` `Raspberry Pi`
+**Tools:** Python · TensorFlow Lite · RTL-SDR · Raspberry Pi · Astropy/SGP4
 
-</td>
-<td width="50%" valign="top">
+### 🛡️ DDoS Detection & Mitigation
 
-### 02 — DDoS Detection & Mitigation
+<img src="https://img.shields.io/badge/DOMAIN-Network%20Security-B91C1C?style=flat-square" alt="Network security"/> <img src="https://img.shields.io/badge/FOCUS-Traffic%20Analysis-1D4ED8?style=flat-square" alt="Traffic analysis"/>
 
-<img src="https://img.shields.io/badge/SECURITY%20ENGINEERING-Traffic%20Analysis-7C3AED?style=flat-square" alt="Security engineering"/>
+A security engineering project focused on suspicious traffic patterns, detection records, monitoring APIs, and mitigation workflows.
 
-A security project focused on identifying suspicious traffic patterns and supporting monitoring and mitigation workflows.
+**Tools:** Python · FastAPI · Scapy · PostgreSQL · Docker
 
-**Work areas**
-- Traffic anomaly detection
-- Detection records and audit logging
-- API-backed monitoring
-- Containerized services
+### 🧭 Sentinel
 
-`Python` `FastAPI` `Scapy` `PostgreSQL` `Docker`
+<img src="https://img.shields.io/badge/DOMAIN-Full--Stack%20Prototype-0F766E?style=flat-square" alt="Full-stack prototype"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A dashboard-oriented web application connecting a React interface with backend APIs and database services.
 
-### 03 — Sentinel
+**Tools:** React · Flask · PostgreSQL · Docker Compose
 
-<img src="https://img.shields.io/badge/WEB%20APPLICATION-Full%20Stack-0891B2?style=flat-square" alt="Full stack"/>
+### 🎙️ Edge AI & voice activation
 
-A dashboard-oriented prototype connecting a React frontend with backend APIs and database services.
+Exploring low-latency voice activation and inference on constrained devices, where compute and memory don't grow just because the model wants them to.
 
-`React` `Flask` `PostgreSQL` `Docker Compose`
-
-</td>
-<td width="50%" valign="top">
-
-### 04 — Edge AI & Voice Activation
-
-<img src="https://img.shields.io/badge/EXPLORATION-Embedded%20AI-F59E0B?style=flat-square" alt="Embedded AI"/>
-
-Exploring efficient voice activation and inference on constrained devices, with attention to latency, resource use, and deployment.
-
-`TinyML concepts` `TensorFlow Lite` `Edge inference`
-
-</td>
-</tr>
-</table>
+**Focus:** TinyML concepts · TensorFlow Lite · efficient inference
 
 <details>
-<summary><b>More engineering and research areas</b></summary>
+<summary><b>Other experiments & research themes</b></summary>
 
-- **HID security training:** hardware-based keystroke automation used to understand HID attack vectors in controlled learning environments.
-- **Secure energy systems:** ideas around intelligent energy management, IoT and peer-to-peer energy sharing.
-- **Blockchain and data platforms:** exploration of distributed systems, graph data and traceability concepts.
+- HID automation for controlled cybersecurity training and attack-vector awareness
+- Secure energy management and peer-to-peer microgrid concepts
+- Blockchain, data traceability, and graph-data exploration
 
 </details>
 
@@ -257,103 +165,72 @@ Exploring efficient voice activation and inference on constrained devices, with 
 
 ## Research radar
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/01-RESILIENT%20POSITIONING-0F766E?style=for-the-badge" alt="Resilient positioning"/>
-<img src="https://img.shields.io/badge/02-SECURITY%20AUTOMATION-1D4ED8?style=for-the-badge" alt="Security automation"/>
-<img src="https://img.shields.io/badge/03-AGENTIC%20AI-6D28D9?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/02-SECURITY%20AUTOMATION-B91C1C?style=for-the-badge" alt="Security automation"/>
+<img src="https://img.shields.io/badge/03-AGENTIC%20AI-1D4ED8?style=for-the-badge" alt="Agentic AI"/>
 <img src="https://img.shields.io/badge/04-EDGE%20INTELLIGENCE-B45309?style=for-the-badge" alt="Edge intelligence"/>
 
-</div>
+Things I'm curious about:
 
-| Question | Why it matters |
-|---|---|
-| Can LEO signals and sensor fusion improve positioning when GNSS is unreliable? | Resilience in navigation and timing |
-| How can detection systems respond to changing traffic patterns? | More robust security monitoring |
-| How should AI agents validate tool use and recover safely? | Reliability and security of agentic workflows |
-| How can useful ML inference fit on constrained devices? | Latency, efficiency and deployment |
+- Can opportunistic LEO signals and sensor fusion improve navigation when GNSS is unreliable?
+- How do we make traffic anomaly detection useful when patterns change?
+- How should AI agents validate tool calls and fail safely?
+- What accuracy/latency/power trade-offs matter for models running at the edge?
 
-My research workflow is straightforward:
+`Read → Hypothesise → Prototype → Evaluate → Document → Repeat`
 
-`Read → Form a hypothesis → Build → Test → Measure → Document`
-
-I distinguish a promising idea from a validated result, and aim to make prototypes easier to inspect and reproduce.
+A research idea is a starting point—not a result until it has evidence behind it.
 
 ---
 
-## Recognition
+## Milestones & certificates
 
-<table>
-<tr>
-<td width="33%" align="center">
+<img src="https://img.shields.io/badge/1st%20PRIZE-Blockocast%202.0-D97706?style=for-the-badge" alt="Blockocast first prize"/>
+<img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON-2025%20Grand%20Finalist%20Entry-0F766E?style=for-the-badge" alt="SIH 2025 Grand Finalist entry"/>
+<img src="https://img.shields.io/badge/DISTINCTION-K7%20Cybersecurity%20Workshop-1D4ED8?style=for-the-badge" alt="K7 cybersecurity distinction"/>
 
-### 1st Prize
+- **Smart India Hackathon 2025 — Hardware Edition:** Team Nexovate, SIH25217, Cognitive Opportunistic LEO-PNT Receiver System.
+- **Blockocast 2.0:** 1st Prize, SVCT Blockchain Club.
+- **K7 Academy Cybersecurity Workshop & Assessment:** Distinction, UmagineTN 2026 (9 January 2026).
 
-**Blockocast 2.0**
+### Completed certificates
 
-SVCT Blockchain Club
-
-</td>
-<td width="34%" align="center">
-
-### SIH 2025
-
-**Grand Finalist entry**
-
-Team Nexovate · Hardware Edition
-
-</td>
-<td width="33%" align="center">
-
-### Distinction
-
-**Cybersecurity Workshop & Assessment**
-
-K7 Academy · UmagineTN 2026
-
-</td>
-</tr>
-</table>
-
-The SIH entry focused on the **Cognitive Opportunistic LEO-PNT Receiver System (SIH25217)**.
-
-## Certifications
-
-| Certificate | Provider |
-|---|---|
-| Google Cybersecurity Professional Certificate | Google / Coursera |
-| Google AI Essentials Specialization | Google / Coursera |
-| Artificial Intelligence Fundamentals | IBM SkillsBuild |
-| Getting Started with Artificial Intelligence | IBM SkillsBuild |
-| Master Java, Python, C & C++: All-in-One Programming Course | Udemy |
-| Cybersecurity Workshop & Assessment — Distinction | K7 Academy · UmagineTN 2026 |
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate"/>
+<br/>
+<img src="https://img.shields.io/badge/Google-AI%20Essentials%20Specialization-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Essentials"/>
+<br/>
+<img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Fundamentals"/>
+<br/>
+<img src="https://img.shields.io/badge/IBM-Getting%20Started%20with%20Artificial%20Intelligence-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Getting Started with AI"/>
+<br/>
+<img src="https://img.shields.io/badge/Udemy-Master%20Java%2C%20Python%2C%20C%20%26%20C%2B%2B-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy programming course"/>
 
 ---
 
-## GitHub activity
+## GitHub telemetry
 
 <div align="center">
 
 <a href="https://github.com/Aakash-SK-16">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakash-SK-16&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakash-SK-16&show_icons=true&hide_border=true&rank_icon=github&bg_color=071923&title_color=67E8F9&icon_color=F59E0B&text_color=E2E8F0" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/Aakash-SK-16">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-SK-16&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-SK-16&layout=compact&hide_border=true&bg_color=071923&title_color=67E8F9&text_color=E2E8F0" alt="Top languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Aakash-SK-16">
-  <img width="85%" src="https://streak-stats.demolab.com?user=Aakash-SK-16&hide_border=true&background=0B1220&ring=6366F1&fire=22D3EE&currStreakLabel=E2E8F0&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=Aakash-SK-16&hide_border=true&background=071923&ring=0F766E&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Aakash-SK-16">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-SK-16&bg_color=0B1220&color=CBD5E1&line=6366F1&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-SK-16&bg_color=071923&color=CBD5E1&line=0F766E&point=F59E0B&area=true&hide_border=true" alt="Contribution graph"/>
 </a>
 
-<sub>Activity cards are rendered by external services. Their availability and refresh timing may vary.</sub>
+<sub>These cards are generated by third-party services; availability, cache refresh and displayed metrics may vary.</sub>
 
 </div>
 
@@ -361,26 +238,18 @@ The SIH entry focused on the **Cognitive Opportunistic LEO-PNT Receiver System (
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,35:2563EB,70:7C3AED,100:06B6D4" width="100%" alt="Gradient divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,35:0F766E,70:F59E0B,100:075985" width="100%" alt="Teal and amber gradient divider"/>
 
-## Connect
+## Have a good problem? Let's investigate it.
 
-**Interested in security engineering, applied AI, cloud systems, or research prototypes?**
-
-<a href="https://www.linkedin.com/in/aakash-sk-0a5608328">
-  <img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-<a href="mailto:skaakash.cv@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Start%20a%20Conversation-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-</a>
-<a href="https://github.com/Aakash-SK-16?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-View%20Source-334155?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
+<a href="https://www.linkedin.com/in/aakash-sk-0a5608328"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:skaakash.cv@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Aakash-SK-16?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=115&color=0:07111F,35:123B68,65:4F46E5,100:06B6D4" width="100%" alt="Gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:071923,30:075985,65:0F766E,100:F59E0B" alt="Teal, ocean blue and amber animated footer"/>
 
-<sub>Secure by design. Curious by default. Better with every iteration.</sub>
+<sub>Secure by design. Curious by default. Occasionally defeated by a missing dependency.</sub>
 
 </div>
