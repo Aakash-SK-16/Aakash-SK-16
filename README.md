@@ -32,37 +32,38 @@
 
 ---
 
-## `01 / THE HUMAN BEHIND THE TERMINAL`
+## `01 / PROFILE`
 
-Hey, welcome in. 👋
+I work at the intersection of **cybersecurity, applied AI, cloud infrastructure, and systems engineering**. My approach is practical: understand the underlying problem, examine the evidence, build a prototype, and test where it succeeds or fails.
 
-Think of me as a builder with a security mindset: curious about what happens beneath the interface, excited by what AI can make possible, and interested in engineering systems that remain useful when real-world conditions get messy.
-
-My work and learning orbit around **cybersecurity, intelligent systems, applied machine learning, cloud infrastructure, and full-stack development**. I like moving between research and implementation—from asking *“Could this work?”* to prototyping, testing assumptions, debugging dependencies, and documenting what I learn.
+I am a third-year B.E. Computer Science Engineering student specialising in Cybersecurity at Sri Venkateswaraa College of Technology (**CGPA: 8.25/10**). I enjoy work that connects research with implementation—from security tooling and backend services to resilient positioning and edge intelligence.
 
 ```text
-CURRENT MODE  →  Learn deeply • Build experimentally • Secure by design
-INTERESTS     →  Cybersecurity / Agentic AI / Cloud / Applied research
-PHILOSOPHY    →  A convincing demo is good. A reproducible system is better.
+FOCUS       Cybersecurity · Applied AI · Cloud Engineering
+METHOD      Research → Prototype → Evaluate → Refine
+PRINCIPLE   Secure by design. Evidence over assumptions.
 ```
 
-- 🎓 B.E. Computer Science Engineering (Cybersecurity), Sri Venkateswaraa College of Technology — **CGPA 8.25/10**, 3rd year
-- 🧭 Exploring **agentic AI, tool-using workflows, and LangGraph**
-- ☁️ Building my foundation in **AWS cloud** and cloud-native engineering
-- 🛡️ Interested in threat detection, security automation, and resilient systems
-- 🛰️ Developing ideas around opportunistic satellite navigation and sensor fusion
-- 🔬 Drawn to research that can be tested, measured, and turned into a prototype
+- Developing my understanding of **agentic AI**, tool use, and LangGraph
+- Learning **AWS cloud architecture** and secure, scalable deployment
+- Exploring network threat detection, security automation, and incident analysis
+- Investigating resilient positioning using satellite signals and sensor fusion
+- Interested in reproducible experiments, efficient inference, and practical engineering
 
-> **My kind of progress:** one better question, one experiment, one commit at a time.
+> I value clear reasoning, measurable results, and systems that can be examined—not just demonstrated.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,35:2563EB,70:7C3AED,100:06B6D4" width="100%" alt="Animated-gradient visual divider"/>
+</div>
 
 ---
 
-## `02 / THE TOOLBOX`
+## `02 / TECHNICAL TOOLKIT`
 
 *Technologies I have used, explored, or am actively learning—rather than a claim of equal expertise in every tool.*
 
-<details open>
-<summary><b>🛡️ Cybersecurity, networking & systems</b></summary>
+<details>
+<summary><b>Cybersecurity, networking & systems</b></summary>
 <br/>
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F172A?style=flat-square&logo=kalilinux&logoColor=white)
@@ -78,8 +79,8 @@ Network security concepts · Threat detection · Vulnerability analysis · Linux
 
 </details>
 
-<details open>
-<summary><b>💻 Programming & developer workflow</b></summary>
+<details>
+<summary><b>Programming & developer workflow</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white)
@@ -93,8 +94,8 @@ Network security concepts · Threat detection · Vulnerability analysis · Linux
 
 </details>
 
-<details open>
-<summary><b>🌐 Web, APIs & application engineering</b></summary>
+<details>
+<summary><b>Web, APIs & application engineering</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white)
@@ -110,8 +111,8 @@ Network security concepts · Threat detection · Vulnerability analysis · Linux
 
 </details>
 
-<details open>
-<summary><b>🧠 AI, machine learning & data</b></summary>
+<details>
+<summary><b>AI, machine learning & data</b></summary>
 <br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
@@ -151,13 +152,13 @@ Also explored: BigQuery · Cloud Storage · Docker Compose · Tauri · RTL-SDR �
 
 ---
 
-## `03 / BUILT, TESTED, AND STILL EVOLVING`
+## `03 / SELECTED PROJECTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Cognitive LEO-PNT Receiver
+### Cognitive LEO-PNT Receiver
 
 **Research direction · Resilient positioning**
 
@@ -174,7 +175,7 @@ Exploring how signals from Low Earth Orbit satellites can complement GNSS when c
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ DDoS Detection & Mitigation
+### DDoS Detection & Mitigation
 
 **Security engineering · Network traffic**
 
@@ -192,7 +193,7 @@ A project direction focused on identifying suspicious traffic patterns and suppo
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Sentinel
+### Sentinel
 
 **Web application · Security-focused monitoring**
 
@@ -203,7 +204,7 @@ A web-app prototype exploring how a clear dashboard and backend services can bri
 </td>
 <td width="50%" valign="top">
 
-### ⌨️ HID Automation Lab
+### HID Automation Lab
 
 **Hardware exploration · Security awareness**
 
@@ -216,7 +217,7 @@ A hardware-based keystroke automation experiment used to understand HID attack v
 <tr>
 <td width="50%" valign="top">
 
-### 🌞 Intelligent Energy & Microgrid Concepts
+### Intelligent Energy & Microgrid Concepts
 
 **Research exploration · Secure distributed systems**
 
@@ -227,7 +228,7 @@ Exploring ideas around intelligent energy management, distributed coordination, 
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ Edge AI & Voice Activation
+### Edge AI & Voice Activation
 
 **Research exploration · Efficient inference**
 
@@ -243,7 +244,7 @@ Exploring low-latency voice activation and edge-device inference, where efficien
 
 ---
 
-## `04 / RESEARCH QUESTIONS I KEEP COMING BACK TO`
+## `04 / RESEARCH INTERESTS`
 
 I’m especially interested in problems where several disciplines meet:
 
@@ -263,7 +264,7 @@ I value reproducibility and honest reporting: a promising concept is a starting 
 
 ## `05 / RECOGNITION & CERTIFICATIONS`
 
-### 🏆 Highlights
+### Highlights
 
 | Symbol | Recognition |
 |---|---|
@@ -271,7 +272,7 @@ I value reproducibility and honest reporting: a promising concept is a starting 
 | 🥇 | **1st Prize — Blockocast 2.0**, SVCT Blockchain Club. |
 | 🛡️ | **Cybersecurity Workshop & Assessment — Distinction**, K7 Academy at UmagineTN 2026 (9 January 2026). |
 
-### 📜 Completed certificates
+### Completed certificates
 
 | Symbol | Certificate | Provider |
 |---|---|---|
@@ -285,7 +286,7 @@ I value reproducibility and honest reporting: a promising concept is a starting 
 
 ---
 
-## `06 / WHAT I'M TRACKING IN TECH`
+## `06 / TECHNOLOGY OUTLOOK`
 
 The goal isn't to chase every trend. It's to understand which shifts create meaningful engineering opportunities.
 
@@ -304,7 +305,7 @@ GitHub's [Octoverse 2025 report](https://github.blog/news-insights/octoverse/oct
 
 ---
 
-## `07 / THE CONTRIBUTION GRAPH`
+## `07 / GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -331,20 +332,20 @@ GitHub's [Octoverse 2025 report](https://github.blog/news-insights/octoverse/oct
 
 ---
 
-## `08 / LET'S BUILD SOMETHING THAT MATTERS`
+## `08 / CONTACT`
 
 Have a research idea, an open-source project, a security challenge, or an interesting system to prototype? I'd be glad to connect, exchange ideas, and learn together.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aakash-sk-0a5608328">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aakash on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn professional profile"/>
 </a>
 <a href="mailto:skaakash.cv@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aakash on Gmail"/>
+  <img src="https://img.shields.io/badge/EMAIL-Start%20a%20Conversation-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email Aakash"/>
 </a>
 <a href="https://github.com/Aakash-SK-16">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Aakash's GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-Source%20%26%20Projects-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub source and projects"/>
 </a>
 
 <br/><br/>
