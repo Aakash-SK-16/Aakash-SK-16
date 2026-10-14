@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&text=AAKASH%20SK&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=59&descSize=16&animation=fadeIn&color=0:071923,30:075985,65:0F766E,100:F59E0B" alt="Aakash SK — Cybersecurity, AI and Systems"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&text=AAKASH%20SK&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=59&descSize=16&animation=fadeIn&color=0:071923,30:075985,65:0F766E,100:F59E0B" alt="Aakash SK — Cybersecurity, AI and Cloud"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=17&duration=2400&pause=750&color=67E8F9&center=true&vCenter=true&width=800&lines=Curious+mind.+Security-first+engineering.;Python+in+one+tab%2C+logs+in+another.;Building+AI+systems+that+do+more+than+look+cool.;Debugging+is+just+detective+work+with+more+tabs." alt="Animated tagline"/>
 
@@ -18,9 +18,9 @@
 
 ---
 
-## `whoami`
+## `_whoami_`
 
-Hey! I'm Aakash — a Computer Science undergraduate specialising in Cybersecurity at Sri Venkateswaraa College of Technology (**CGPA: 8.25/10**).
+Heyyy!!!! I'm Aakash — a Computer Science undergraduate specialising in Cybersecurity at Sri Venkateswaraa College of Technology.
 
 I like figuring out what happens behind the interface: why a system fails, what a suspicious packet is trying to say, whether a model can run on a tiny device, and why that one dependency worked yesterday. (The last one is a mystery science has yet to solve.)
 
